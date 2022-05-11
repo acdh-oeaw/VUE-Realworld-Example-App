@@ -1,6 +1,6 @@
 name: Build and test
 env:
-  image_tagged: laravel-realworld-example-app
+  image_tagged: vue-realworld-example-app
   default_port: 5000
   source_image: tmp-cnb-image
 on:
